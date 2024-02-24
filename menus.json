@@ -1,0 +1,59 @@
+
+[
+    {
+        "id":1,
+        "nombre":"Macbook Pro",
+        "precio": 12000,
+        "imagen": "./img/macbook.png" 
+    },
+    {
+        "id":2,
+        "nombre":"Equipo de Audio",
+        "precio": 10000,
+        "imagen": "./img/equipo.png" 
+    },
+    {
+        "id":3,
+        "nombre":"Auricular BT 5.0",
+        "precio": 1850,
+        "imagen": "./img/auricular.png" 
+    },
+    {
+        "id":4,
+        "nombre":"Notebook I7 16Gb",
+        "precio": 10850,
+        "imagen": "./img/notebook.png" 
+    },
+    {
+        "id":5,
+        "nombre":"MiniDrone DJI 2SE",
+        "precio": 8000,
+        "imagen": "./img/drone.png" 
+    },
+    {
+        "id":6,
+        "nombre":"Reloj Smart",
+        "precio": 4300,
+        "imagen": "./img/reloj.png" 
+    },
+    {
+        "id":7,
+        "nombre":"Webcam Logitech",
+        "precio": 2700,
+        "imagen": "./img/webcam.png" 
+    },
+    {
+        "id":8,
+        "nombre":"Impresora WIFI",
+        "precio": 3000,
+        "imagen": "./img/impresora.png" 
+    }
+]
+
+
+
+
+
+
+
+
